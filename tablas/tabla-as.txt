@@ -1,0 +1,11 @@
+as * 1 = NaN
+as * 2 = NaN
+as * 3 = NaN
+as * 4 = NaN
+as * 5 = NaN
+as * 6 = NaN
+as * 7 = NaN
+as * 8 = NaN
+as * 9 = NaN
+as * 10 = NaN
+as * 11 = NaN
